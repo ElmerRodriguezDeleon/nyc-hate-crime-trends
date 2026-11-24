@@ -2,8 +2,6 @@
 
 An analysis of 3,450 NYPD-confirmed hate crime complaints from 2019 to 2024. It looks at how incidents changed over time, which boroughs and groups are most affected, and how reliable the underlying data is.
 
-**Team:** Dooyeon Jeong, Chengxi Luo, Elmer Rodriguez, Khawar Siddiqui · CIS 2300
-
 ## Key findings
 - Hate crimes fell to **284** in 2020, then rose to a peak of **758** in 2023 and dipped to 709 in 2024.
 - **Anti-Jewish** incidents are **45.9%** of all cases (1,585) and rose every year from 2020 to 2024, including 2024, when the overall total fell.
